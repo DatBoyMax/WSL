@@ -1,6 +1,6 @@
 Name             Rating (0/5)         Notes                                                   This is based on my experience. Mileage may vary.
 
-MS Edge Dev      3.5                  Setting page doesn't load work well
+MS Edge Dev      3.5                  Setting page doesn't work well
 
 Firefox          5                    It's Firefox
 
@@ -14,4 +14,6 @@ Thunderbird      5                    N/A
 
 MS Teams         4                    Long load time
 
-GIMP             5                    Everything Works
+GIMP             5                    Everything Work
+
+Chrome           4.5                  Icons don't load correctly
